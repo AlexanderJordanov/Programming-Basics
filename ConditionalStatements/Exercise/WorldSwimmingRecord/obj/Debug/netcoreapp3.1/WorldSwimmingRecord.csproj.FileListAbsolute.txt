@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.exe
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.deps.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+C:\Users\HP\source\repos\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.genruntimeconfig.cache
