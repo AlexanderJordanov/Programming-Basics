@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.exe
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.deps.json
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+C:\Users\HP\source\repos\NestedLoops-Exercise\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.genruntimeconfig.cache

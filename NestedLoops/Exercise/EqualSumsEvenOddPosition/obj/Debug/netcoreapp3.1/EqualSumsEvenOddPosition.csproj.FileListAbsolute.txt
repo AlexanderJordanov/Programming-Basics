@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.exe
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.deps.json
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.dll
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.pdb
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.dll
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.pdb
+C:\Users\HP\source\repos\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPosition.genruntimeconfig.cache
