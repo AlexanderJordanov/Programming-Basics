@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.exe
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.deps.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\refint\UniquePINCodes.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.genruntimeconfig.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\UniquePINCodes\obj\Debug\net6.0\ref\UniquePINCodes.dll

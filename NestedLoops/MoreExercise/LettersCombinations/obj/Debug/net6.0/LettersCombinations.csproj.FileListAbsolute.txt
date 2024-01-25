@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\net6.0\LettersCombinations.exe
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\net6.0\LettersCombinations.deps.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\net6.0\LettersCombinations.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\net6.0\LettersCombinations.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\bin\Debug\net6.0\LettersCombinations.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\refint\LettersCombinations.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\LettersCombinations.genruntimeconfig.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\LettersCombinations\obj\Debug\net6.0\ref\LettersCombinations.dll
