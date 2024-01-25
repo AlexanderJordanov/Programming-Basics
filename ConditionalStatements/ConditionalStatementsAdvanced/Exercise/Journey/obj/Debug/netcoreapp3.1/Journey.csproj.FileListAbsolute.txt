@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\HP\source\repos\ConditionalStatementsAdvanced-Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache
