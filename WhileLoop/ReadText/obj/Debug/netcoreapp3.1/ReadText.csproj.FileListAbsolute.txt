@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\HP\source\repos\WhileLoop-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache
