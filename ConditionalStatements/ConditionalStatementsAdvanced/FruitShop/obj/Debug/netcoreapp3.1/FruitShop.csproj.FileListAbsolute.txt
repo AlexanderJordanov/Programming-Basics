@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.exe
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.deps.json
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.json
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.dll
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.pdb
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.dll
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.pdb
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.genruntimeconfig.cache
