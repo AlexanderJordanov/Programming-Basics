@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.exe
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.deps.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.runtimeconfig.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.dll
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.pdb
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.dll
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.pdb
+C:\Users\HP\source\repos\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.genruntimeconfig.cache
