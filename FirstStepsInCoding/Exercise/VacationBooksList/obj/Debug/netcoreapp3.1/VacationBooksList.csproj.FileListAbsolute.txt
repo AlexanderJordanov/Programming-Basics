@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.exe
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.deps.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfo.cs
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.genruntimeconfig.cache

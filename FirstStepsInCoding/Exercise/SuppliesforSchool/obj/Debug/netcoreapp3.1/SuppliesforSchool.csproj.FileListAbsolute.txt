@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.exe
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.deps.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.runtimeconfig.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.AssemblyInfo.cs
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.genruntimeconfig.cache
