@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.exe
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.deps.json
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.dll
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.pdb
+C:\Users\HP\source\repos\ForLoop-Exercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.genruntimeconfig.cache
