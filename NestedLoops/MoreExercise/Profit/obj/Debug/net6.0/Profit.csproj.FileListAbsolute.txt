@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\bin\Debug\net6.0\Profit.exe
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\bin\Debug\net6.0\Profit.deps.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\bin\Debug\net6.0\Profit.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\bin\Debug\net6.0\Profit.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\bin\Debug\net6.0\Profit.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\refint\Profit.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\Profit.genruntimeconfig.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\Profit\obj\Debug\net6.0\ref\Profit.dll

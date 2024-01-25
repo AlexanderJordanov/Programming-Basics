@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.exe
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.deps.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\refint\SumOfTwoNumbers.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\SumOfTwoNumbers\obj\Debug\net6.0\ref\SumOfTwoNumbers.dll
