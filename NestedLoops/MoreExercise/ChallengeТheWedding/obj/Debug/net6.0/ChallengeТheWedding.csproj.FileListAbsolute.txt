@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\bin\Debug\net6.0\ChallengeТheWedding.exe
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\bin\Debug\net6.0\ChallengeТheWedding.deps.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\bin\Debug\net6.0\ChallengeТheWedding.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\bin\Debug\net6.0\ChallengeТheWedding.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\bin\Debug\net6.0\ChallengeТheWedding.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\refint\ChallengeТheWedding.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ChallengeТheWedding.genruntimeconfig.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\ChallengeТheWedding\obj\Debug\net6.0\ref\ChallengeТheWedding.dll

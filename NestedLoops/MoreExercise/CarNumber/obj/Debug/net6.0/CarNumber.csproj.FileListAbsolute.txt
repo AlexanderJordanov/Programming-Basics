@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\bin\Debug\net6.0\CarNumber.exe
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\bin\Debug\net6.0\CarNumber.deps.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\bin\Debug\net6.0\CarNumber.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\bin\Debug\net6.0\CarNumber.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\bin\Debug\net6.0\CarNumber.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\refint\CarNumber.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\CarNumber.genruntimeconfig.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\CarNumber\obj\Debug\net6.0\ref\CarNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\net6.0\WeddingSeats.exe
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\net6.0\WeddingSeats.deps.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\net6.0\WeddingSeats.runtimeconfig.json
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\net6.0\WeddingSeats.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\bin\Debug\net6.0\WeddingSeats.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.AssemblyInfo.cs
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\refint\WeddingSeats.dll
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.pdb
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\WeddingSeats.genruntimeconfig.cache
+C:\Users\HP\source\repos\NestedLoops-MoreExercises\WeddingSeats\obj\Debug\net6.0\ref\WeddingSeats.dll
