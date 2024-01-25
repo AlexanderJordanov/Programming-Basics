@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\bin\Debug\net6.0\EqualPairs.exe
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\bin\Debug\net6.0\EqualPairs.deps.json
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\bin\Debug\net6.0\EqualPairs.runtimeconfig.json
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\bin\Debug\net6.0\EqualPairs.dll
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\bin\Debug\net6.0\EqualPairs.pdb
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.AssemblyInfo.cs
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.dll
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\refint\EqualPairs.dll
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.pdb
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\EqualPairs.genruntimeconfig.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\EqualPairs\obj\Debug\net6.0\ref\EqualPairs.dll
