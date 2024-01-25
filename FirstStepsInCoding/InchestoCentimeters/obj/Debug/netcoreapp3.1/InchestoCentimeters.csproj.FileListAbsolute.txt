@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.exe
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.deps.json
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.runtimeconfig.json
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.dll
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.pdb
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.AssemblyInfo.cs
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.dll
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.pdb
+C:\Users\HP\source\repos\FirstStepInProgramming\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.genruntimeconfig.cache
