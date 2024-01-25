@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.exe
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.deps.json
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.runtimeconfig.json
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.dll
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.pdb
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.AssemblyInfo.cs
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.dll
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.pdb
+C:\Users\HP\source\repos\FirstStepsInCodingMoreExercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.genruntimeconfig.cache
