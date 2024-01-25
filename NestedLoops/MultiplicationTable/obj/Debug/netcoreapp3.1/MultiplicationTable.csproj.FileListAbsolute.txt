@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\HP\source\repos\Nested Loops-Lab\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache
