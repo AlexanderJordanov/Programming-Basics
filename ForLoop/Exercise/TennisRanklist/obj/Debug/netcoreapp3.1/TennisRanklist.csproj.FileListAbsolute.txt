@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.exe
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.deps.json
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.runtimeconfig.json
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.dll
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\bin\Debug\netcoreapp3.1\TennisRanklist.pdb
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.AssemblyInfo.cs
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.dll
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.pdb
+C:\Users\HP\source\repos\ForLoop-Exercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.genruntimeconfig.cache
