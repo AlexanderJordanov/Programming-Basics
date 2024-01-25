@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.exe
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.deps.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.dll
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.pdb
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.dll
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.pdb
+C:\Users\HP\source\repos\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.genruntimeconfig.cache
