@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.exe
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.deps.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.runtimeconfig.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.AssemblyInfo.cs
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.genruntimeconfig.cache

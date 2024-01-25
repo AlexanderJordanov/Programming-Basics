@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\bin\Debug\netcoreapp3.1\USDtoBgn.exe
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\bin\Debug\netcoreapp3.1\USDtoBgn.deps.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\bin\Debug\netcoreapp3.1\USDtoBgn.runtimeconfig.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\bin\Debug\netcoreapp3.1\USDtoBgn.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\bin\Debug\netcoreapp3.1\USDtoBgn.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\bin\Debug\netcoreapp3.1\USDtoBgn.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.AssemblyInfo.cs
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.dll
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.pdb
+C:\Users\HP\source\repos\FirstStepsInProgrammingExcercise\USDtoBgn\obj\Debug\netcoreapp3.1\USDtoBgn.genruntimeconfig.cache
