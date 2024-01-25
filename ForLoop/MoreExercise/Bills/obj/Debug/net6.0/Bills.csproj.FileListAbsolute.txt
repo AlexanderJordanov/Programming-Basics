@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\bin\Debug\net6.0\Bills.exe
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\bin\Debug\net6.0\Bills.deps.json
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\bin\Debug\net6.0\Bills.runtimeconfig.json
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\bin\Debug\net6.0\Bills.dll
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\bin\Debug\net6.0\Bills.pdb
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.AssemblyInfo.cs
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.dll
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\refint\Bills.dll
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.pdb
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\Bills.genruntimeconfig.cache
+C:\Users\HP\source\repos\For-Loop-MoreExercises\Bills\obj\Debug\net6.0\ref\Bills.dll
