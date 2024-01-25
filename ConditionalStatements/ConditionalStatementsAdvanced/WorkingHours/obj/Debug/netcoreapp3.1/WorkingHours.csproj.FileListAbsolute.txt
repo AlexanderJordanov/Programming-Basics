@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.csproj.CoreCompileInputs.cache
